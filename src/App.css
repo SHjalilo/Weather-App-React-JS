@@ -54,7 +54,7 @@ img {
 .info .icon {
   margin-top: 20px;
   width: 100px;
-  height: 90px;
+  height: 99px;
 }
 
 .info h1 {
@@ -96,4 +96,11 @@ img {
 
 .humidity p , .wind p {
   margin: 0px;
+}
+
+.error{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-right: 10px;
+  font-size: 23px;
 }
